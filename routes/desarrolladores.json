@@ -1,0 +1,26 @@
+    [
+      { 
+        "id" : "1",
+        "nombre": "Loli",
+        "edad": "30",
+        "nacionalidad": "Argentina",
+        "cargo": "dev senior",
+        "hobbies": "Ver futbol"
+      },
+      {
+        "id" : "2",
+        "nombre": "José",
+        "edad": "26",
+        "nacionalidad": "Colombia",
+        "cargo": "dev junior",
+        "hobbies": "Ver futbol, ver series"
+      },
+      {
+        "id" : "3",
+        "nombre": "Eva",
+        "edad": "27",
+        "nacionalidad": "Colombia",
+        "cargo": "dev junior",
+        "hobbies": "Fotografía"
+      }
+    ]
